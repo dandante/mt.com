@@ -1,7 +1,7 @@
 ---
+title: Poems
 layout: default
 pageid: poems
-title: Poems
 ---
 
 # Poems

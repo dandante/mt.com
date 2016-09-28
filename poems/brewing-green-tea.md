@@ -1,10 +1,8 @@
 ---
+title: Poems » Brewing Green Tea
 layout: default
 pageid: poems
-title: Poems » Brewing Green Tea
 ---
-
-
 
 ## Brewing Green Tea
 

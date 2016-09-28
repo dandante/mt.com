@@ -1,7 +1,7 @@
 ---
+title: Contact
 layout: default
 pageid: contact
-title: Contact
 ---
 
 <script>
