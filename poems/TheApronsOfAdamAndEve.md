@@ -1,7 +1,7 @@
 ---
+title: The Aprons of Adam and Eve
 layout: none
 pageid: poems
-title: The Aprons of Adam and Eve
 ---
 
 <title>The Aprons of Adam and Eve</title>
