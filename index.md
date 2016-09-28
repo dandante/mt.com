@@ -36,7 +36,7 @@ layout: default
 <li><img width="60" height="57" alt="" class="imgBorder floatL" src="uploads/images/Goose and Gander.jpg" />My recent banjo CD, <strong><em>Goose and Gander</em></strong> features me on banjo and vocals, and my brother Dan Tenenbaum on guitar. Here's "Bowling Green": 
 <div>
 <audio controls>
-<source src='/uploads/mp3/01 Bowling Green.mp3'
+<source src='/uploads/mp3/01 Bowling Green.mp3'>
 Your browser does not support the audio element.
 Please use an HTML5-compatible browser.
 </audio>

@@ -28,7 +28,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
     <li>Bowling Green&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/01 Bowling Green.mp3'
+					<source src='/uploads/mp3/01 Bowling Green.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -41,7 +41,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>Scat Tom Kitty Puss&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/06 Scat Tom Kitty Puss.mp3'
+					<source src='/uploads/mp3/06 Scat Tom Kitty Puss.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -54,7 +54,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>Old Bald Eagle&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/11 Old Bald Eagle.mp3'
+					<source src='/uploads/mp3/11 Old Bald Eagle.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -73,7 +73,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>Little Birdie&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/01 02 Little Birdie.mp3'
+					<source src='/uploads/mp3/01 02 Little Birdie.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -83,7 +83,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>High Paper Collar&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/01 04 High Paper Collar.mp3'
+					<source src='/uploads/mp3/01 04 High Paper Collar.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -97,7 +97,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>New York Society&nbsp;
 			<div>
 				<audio controls>
-					<source src='/uploads/mp3/01 10 New York Society.mp3'
+					<source src='/uploads/mp3/01 10 New York Society.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -113,7 +113,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 		<li>Goin up to Hamburg&nbsp;
 			<div>
 				<audio controls>
-					<source src="/uploads/mp3/01 18 Goin' Up To Hamburg.mp3"
+					<source src="/uploads/mp3/01 18 Goin' Up To Hamburg.mp3">
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
@@ -128,7 +128,7 @@ Read additional notes <a href="/music/GooseAndGanderNotes.html" rel="Text_Window
 	<li>Sail Away Ladies / Sail Back Home Again&nbsp;
 		<div>
 				<audio controls>
-					<source src='/uploads/mp3/01 Sail Away Ladies_Sail Back Home Again.mp3'
+					<source src='/uploads/mp3/01 Sail Away Ladies_Sail Back Home Again.mp3'>
 					Your browser does not support the audio element.
 					Please use an HTML5-compatible browser.
 				</audio>
