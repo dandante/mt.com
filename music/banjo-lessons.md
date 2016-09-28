@@ -4,6 +4,15 @@ layout: default
 pageid: music
 ---
 
+<script>
+$( document ).ready(function() {
+	var addr = String.fromCharCode(109, 98, 116, 101, 110, 110, 121, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109);
+	var html = "<a href='mailto:" + addr + "'>Email</a>"
+	$(".emailaddress").html(html);
+});
+</script>
+
+
 <h2>Banjo Lessons</h2>
 
 <p><strong><br />
