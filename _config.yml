@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Molly Tenenbaum's Web Site
 timezone: UTC
 collections:
   posts:
@@ -14,7 +14,7 @@ description: 'Molly Tenenbaum, poet and old-time banjo player in Seattle, is the
 
 '
 baseurl: ''
-url: http://yourdomain.com
+url: http://mollytenenbaum.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
