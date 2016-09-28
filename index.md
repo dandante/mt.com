@@ -43,6 +43,6 @@ Please use an HTML5-compatible browser.
 </div>
 </li>
 <li>Praise for <em>Goose and Gander</em> from <a href="http://www.bubbaguitar.com/newsletter.html" target="_blank">Bill Martin's weekly Portland newsletter</a>: "Molly Tenenbaum's "Goose<br />
-and Gander" is another superb channeling. In particular, "Old Kimball" makes my socks roll up and down in a terrible frenzy." "...fresh and alive, brilliantly played and innovative within the style. It takes a high degree of artistry and discipline to express yourself within a style of music and not mutilate it.."</li>
+and Gander" is another superb channeling. In particular, "Old Kimball" makes my socks roll up and down in a terrible frenzy." "...fresh and alive, brilliantly played and innovative within the style. It takes a high degree of artistry and discipline to express yourself within a style of music and not mutilate it."</li>
 </ul>
 <p> </p>
