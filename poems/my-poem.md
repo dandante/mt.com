@@ -1,4 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+---
+layout: none
+pageid: poems
+title: Poems
+---
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -17,7 +22,7 @@
 <link type="text/css" rel="stylesheet" href="/CSS/modalWindow.css" media="screen" />
 <link type="text/css" rel="stylesheet" href="/CSS/highslide.css" media="screen" />  <!--  For modal windows  -->
 
-<title>Goose and Gander Notes</title>
+<title>My Poem</title>
 </head>
 
 

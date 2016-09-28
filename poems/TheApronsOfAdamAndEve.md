@@ -1,31 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<!--  <JAVASCRIPT>  -->
-<script src="/scripts/mootools.js"     type="text/javascript"></script>
-<script src="/scripts/highslide.js"    type="text/javascript"></script>  <!-- For modal windows / galleries  -->
-<script src="/scripts/audio-player.js" type="text/javascript"></script>  <!--  For the MP3 player  -->
-<script src="/scripts/main.js"         type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/HSconfig.js/index.html"></script>   <!--  Configure Highslide  -->
-
-<script type="text/javascript">/* <![CDATA[ */ houseKeeping(); /* ]]> */</script>
-
-<!--  <STYLES>  -->
-<link type="text/css" rel="stylesheet" href="/CSS/reset.css" media="screen" />
-<link type="text/css" rel="stylesheet" href="/CSS/base.css" media="screen" />
-<link type="text/css" rel="stylesheet" href="/CSS/modalWindow.css" media="screen" />
-<link type="text/css" rel="stylesheet" href="/CSS/highslide.css" media="screen" />  <!--  For modal windows  -->
+---
+layout: none
+pageid: poems
+title: The Aprons of Adam and Eve
+---
 
 <title>The Aprons of Adam and Eve</title>
-</head>
 
+The Aprons of Adam and Eve
 
-<body>
-
-    <div id="wrap">
-
-        <p>The Aprons of Adam and Eve</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &hellip;and they knew that they were naked; and they sewed<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fig leaves together and made themselves aprons.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		--Gen 3:7</p>
@@ -93,7 +75,3 @@ come to eat you, eat<br />
 you all up, the fireside aprons,<br />
 the waiting aprons, any moment,<br />
 heavy-booted aprons at the door.</p>
-
-    </div>
-</body>
-</html>
