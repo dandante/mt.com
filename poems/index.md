@@ -1,7 +1,7 @@
 ---
 title: Poems
-layout: default
 pageid: poems
+layout: default
 ---
 
 # Poems
@@ -51,8 +51,6 @@ my sighs and flutters, my whiffles and trills.
 
 </div>
 
-
-
 *Read more poems*
 
 ["The Aprons of Adam and Eve"](TheApronsOfAdamAndEve.html) first
@@ -74,12 +72,11 @@ about sleep, from [Fringe](http://www.fringemagazine.org/) Magazine.
 ["Afternoon Off"](http://www.poetrynw.org/molly-tenenbaum-afternoon-off/),
 which first appeared in [Poetry Northwest](http://ttp://www.poetrynw.org/).
 
-
-<a title="My Poem" rel="Text_Window" href="my-poem.html">&quot;My
-Poem&quot;</a> which first appeared in *The Licton Springs Review*,
+<a title="My Poem" rel="Text_Window" href="my-poem.html">"My
+Poem"</a> which first appeared in *The Licton Springs Review*,
 will tell you all about what my poetry's like.
 
-From the [Beloit Poetry Journal](http://www.bpj.org/PDF/V59N1.pdf#zoom=100&amp;page=24),
+From the [Beloit Poetry Journal](http://www.bpj.org/PDF/V59N1.pdf#zoom=100&page=24),
 three poems about ventriloquism.
 
 ["I Live in a Yellow Ice Cream Truck"](http://www.thediagram.com/4_4/tenenbaum.html)
@@ -96,7 +93,6 @@ from *In Posse*.
 ["Impossible Aubade, with News and a Crumb,"](impossible-aubade-with-news-and-a-crumb.html)
 which
 first appeared in the *[Southeast Review](http://www.southeastreview.org/)*.
-
 
 » [Impossible Aubade with News and a Crumb](impossible-aubade-with-news-and-a-crumb.html)
 
