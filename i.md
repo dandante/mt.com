@@ -1,7 +1,7 @@
 ---
+title: Home (md)
 layout: default
 pageid: home
-title: Home (md)
 ---
 
 **poetry and old-time music**

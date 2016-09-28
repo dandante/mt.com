@@ -1,9 +1,8 @@
 ---
+title: Poems » Impossible Aubade with News and a Crumb
 layout: default
 pageid: poems
-title: Poems » Impossible Aubade with News and a Crumb
 ---
-
 
 ## poems
 
