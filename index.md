@@ -152,4 +152,4 @@ it at the [store](/store/index.html).
   "Old Kimball" makes my socks roll up and down in a terrible frenzy."
   "...fresh and alive, brilliantly played and innovative within the style. It
   takes a high degree of artistry and discipline to express yourself within a
-  style of music and not mutilate it."
+  style of music and not mutilate it.."
