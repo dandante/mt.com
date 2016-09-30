@@ -26,9 +26,9 @@ My recordings are
 *[Instead of a Pony](/music/index.html)*, and
 *[Goose and Gander](/music/index.html)*.
 
-## newsshshshshshshs
+## news
 
-* New in 2016! Now offering banjo lessons at
+* New in 2015! Now offering banjo lessons at
   [Dusty Strings Music School](http://store.dustystrings.com/t-3-ms-PL-banjo.aspx?skinid=4)
   in Fremont as well as in my living room. Call or visit
   [Dusty Strings](http://store.dustystrings.com/t-3-ms-workshophome.aspx)
