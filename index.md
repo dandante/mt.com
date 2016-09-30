@@ -8,7 +8,7 @@ layout: default
 
 <img width="65" height="106" src="/uploads/images/CupboardArtist_cover-final_33percent.jpg" class=" floatL" alt="" />
 
-In my poetry life, I write poems, give readings, teach writing classes and workshops, and encourage poetry everywhere. I have three books,
+In my *poetry* life, I write poems, give readings, teach writing classes and workshops, and encourage poetry everywhere. I have three books,
 *[The Cupboard Artist](/poems/books.html)* (Floating Bridge Press, 2012),
 *[Now](/poems/books/html)*(Bear Star Press 2007), and
 *[By A Thread](/poems/books/html)* (Van West & Company, 2000),
