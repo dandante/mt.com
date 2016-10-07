@@ -28,9 +28,9 @@ My recordings are
 
 ## news
 
-* New in 2015! Now offering banjo lessons at
+* Now offering banjo lessons at
   [Dusty Strings Music School](http://store.dustystrings.com/t-3-ms-PL-banjo.aspx?skinid=4)
-  in Fremont as well as in my living room. Call or visit
+  in Fremont as well as [in my living room](/music/banjo-lessons.html). Call or visit
   [Dusty Strings](http://store.dustystrings.com/t-3-ms-workshophome.aspx)
   to find out about lessons there.
   Click <a href="/music/banjo-lessons.html" rel="Text_Window">here</a> for
@@ -54,38 +54,17 @@ it at the [store](/store/index.html).
 5” x 13”, 42 pages. Click
 [here](/poems/ExercisesExcerpts.html) to see more poems and pages from the book.
 
-* November 5, 2014:
-  [Book Launch Party for Exercises
-  to Free The Tongue](https://www.facebook.com/events/825149020849455/)
-  a limited-edition artist book of poems about my grandparents' lives as
-  ventriloquists on the vaudeville stage in the early 1900s. 7pm at Richard
-  Hugo House.
-
 * Read my poem
   ["This Poem Needs Garlic"](http://www.tinderboxpoetry.com/this-poem-needs-garlic)
-  in the new issue of
-  [Tinderbox Poetry](http://www.tinderboxpoetry.com/this-poem-needs-garlic).
+  in [Tinderbox Poetry](http://www.tinderboxpoetry.com/this-poem-needs-garlic).
 
-* New poems in the Summer/Fall 2014 issue of
+* Read poems in the Summer/Fall 2014 issue of
   [Poetry Northwest](http://www.poetrynw.org/issue-cover/the-social-media-issue-2014/)!
-
-* April 28, 2014: The collaborative book I'm working on about my family's
-  history with ventriloquism is featured today on the
-  [Best American Poetry Blog](http://blog.bestamericanpoetry.com/the_best_american_poetry/2014/04/molly-tenenbaum-poet-ellen-ziegler-artist--1.html),
-  in an interview with
-  [Martha Silano](http://bluepositive.blogspot.com/2014/04/guest-blogging-this-week-at-best.html).
 
 * Check out my poem,
   "[Some Words](http://www.ecotonejournal.com/index.php/articles/details/some_words_acid_extinction_are_pasted_to_the_undersides_of_others)"
   in the Fall 2013 issue of
   [Ecotone](http://www.ecotonejournal.com/index.php/issues/toc/ecotone_16/).
-
-* New poem of mine in the Fall 2013 issue of
-  [The Southern Humanities Review](http://www.cla.auburn.edu/shr/)!
-
-* The 30th Anniversary edition of the
-  [Crab Creek Review](http://www.amazon.com/Crab-Creek-Review-Anniversary-Issue/dp/1490487107)
-  is out. I'm proud to be included.
 
 * Check out this wonderful new anthology,
   [live at the Center: Contemporary Poems from the Pacific Northwest](http://ooligan.pdx.edu/poetry/alive-at-the-center/)!
